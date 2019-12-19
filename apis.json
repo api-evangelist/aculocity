@@ -1,0 +1,51 @@
+{
+    "name": "Aculocity",
+    "description": "Aculocity is a software development and data management company based in Chicago.\r        Aculocity specializes in custom software development, data integration, erp integration and technology management \r        with a vast amount of exeperience in th...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3715-aculocity.jpg",
+    "tags": [
+        "agencies",
+        "api not found",
+        "data",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aculocity\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aculocity",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/3715-aculocity.jpg",
+            "humanURL": "http:\/\/aculocity.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aculocity-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aculocity-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "info@aculocity.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Aculocity"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/aculocity.com\/"
+        }
+    ]
+}
